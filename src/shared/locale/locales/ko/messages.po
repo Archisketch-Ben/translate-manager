@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-04 18:15+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ko\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: app/[lang]/layout.tsx:21
+msgid "English!"
+msgstr "한국어!"
+
+#. js-lingui-explicit-id
+#: app/[lang]/page.tsx:11
+msgid "Welcome to Naver!"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: app/[lang]/page.tsx:15
+msgid "greeting"
+msgstr "안녕하세요"
+
+#: src/shared/locale/ui/locale-switcher.tsx:10
+msgid "English"
+msgstr "English (영어)"
+
+#: src/shared/locale/ui/locale-switcher.tsx:12
+msgid "Japanese"
+msgstr "日本語 (일본어)"
+
+#: src/shared/locale/ui/locale-switcher.tsx:11
+msgid "Korean"
+msgstr "한국어"
+
+#: src/shared/locale/ui/locale-switcher.tsx:13
+msgid "Vietnamese"
+msgstr "Tiếng Việt  (베트남어)"
